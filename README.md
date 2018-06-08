@@ -1,7 +1,7 @@
 # Simple react app
 
-This is an easy ans simple way to start a front-end react app with a back-end nodejs server.
-Simple-react-app is made with react-create-app and express.
+This is an easy and simple way to start a front-end react app with a back-end nodejs server.
+Simple-react-app is made with create-react-app and express.
 
 These followings tools are config:
 - babel
@@ -10,7 +10,7 @@ These followings tools are config:
 - hot-reloading
 - postcss
 
-react-create-app is eject to adding postcss in webpack.config.dev.js
+react-create-app is ejected to allow sass files in webpack.config.dev.js
 
 # Getting started
 
